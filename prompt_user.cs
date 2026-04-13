@@ -30,7 +30,7 @@ namespace ai_chatbot
 
             do
             {
-                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.Write("User: ");
                 Console.ForegroundColor = ConsoleColor.Gray;
 
@@ -41,6 +41,7 @@ namespace ai_chatbot
             } while (!check_name());
         }
 
+        // This method handles chatbot responses
         // Validate name input
         private Boolean check_name()
         {

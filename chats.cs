@@ -16,7 +16,7 @@ namespace ai_chatbot
             // =========================
             // CHATBOT RESPONSES
             // =========================
-            answers.Add("password must be at least 8 characters long");
+            answers.Add("password must be at least 8 to 10 characters long");
             answers.Add("use strong password with numbers and symbols");
             answers.Add("do not share your password with anyone");
             answers.Add("phishing is a fake email trying to steal your information");
@@ -25,6 +25,8 @@ namespace ai_chatbot
             answers.Add("make sure the website uses https");
             answers.Add("do not download files from unknown sources");
             answers.Add("keep your software updated");
+            answers.Add("never use the same password for multiple accounts");
+            answers.Add("enable two factor authentication for better security");
             answers.Add("use antivirus to protect your device");
 
             answers.Add("i am doing well thank you");
