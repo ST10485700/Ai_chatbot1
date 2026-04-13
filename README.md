@@ -63,12 +63,12 @@ A GitHub Actions workflow is included to ensure the project builds successfully.
 ---
 
 ## 📸 Workflow Screenshot
-(Add your GitHub Actions success screenshot here)
+![Actions](./Actions.png)
 
 ---
 
 ## 📺 Presentation Video
-(Add your YouTube unlisted link here)
+([Add your YouTube unlisted link here](https://youtu.be/c6rYUyKLSYY))
 
 ---
 
