@@ -13,9 +13,9 @@ namespace ai_chatbot
 
         public void ai_chats(string name)
         {
-            // =========================
+            
             // CHATBOT RESPONSES
-            // =========================
+                
             answers.Add("password must be at least 8 to 10 characters long");
             answers.Add("use strong password with numbers and symbols");
             answers.Add("do not share your password with anyone");
@@ -33,9 +33,9 @@ namespace ai_chatbot
             answers.Add("my purpose is to help you stay safe online");
             answers.Add("you can ask about passwords phishing and browsing");
 
-            // =========================
+            
             // IGNORE WORDS (REQUIRED)
-            // =========================
+            
             ignoring.Add("a");
             ignoring.Add("about");
             ignoring.Add("above");
